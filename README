@@ -1,14 +1,14 @@
-Chains - Single Layer.py
+Chains-Single-Layer.py
 	a python code to measure the number of loops and the length of
 	loops within a single layer of a Benes network. This is for
 	100% input loads.
 
-Chains - vs idle ports.py
+Chains-Partial-Perm.py
 	a python code to measure the number of loops and the length of
 	loops within a single layer of a Benes network. This is for 
 	different input loads.
 	
-chains - RecursiveV2.py
+chains-Recursive.py
 	a python code to mesaure the time to complete the Benes network
 	routing algorithm as proposed. 
 
